@@ -1,6 +1,6 @@
 GOG (2024-05)
 <br/>
-Velikost 110MB https://drive.google.com/drive/folders/1IcvIdmOakt6ziIYni5Mkdmn4_0JIP-bE
+Velikost 110MB https://drive.google.com/drive/folders/1Sid1xlRxfJq3O19d0HNLJx76hXwiwhp4
 
 Postup
 <br/>
