@@ -1,14 +1,10 @@
 GOG (2024-05)
 <br/>
-Velikost 110MB https://drive.google.com/drive/folders/1Sid1xlRxfJq3O19d0HNLJx76hXwiwhp4
-
-Postup
-<br/>
--aplikovat CZ patch
-<br/>
--nakopírovat obsah složky ```_CZ-PART2``` do hry
+Velikost 69MB https://drive.google.com/drive/folders/1Sid1xlRxfJq3O19d0HNLJx76hXwiwhp4
 
 Chyby
+
+-překlad obsahuje jednu dabovanou externí audio stopu k videu, ale hra ji neumí načíst
 
 -při použití CZ ```verender.dll``` se hra bez "dgVoodoo2" nemusí spustit, ale při použití GOG DLL může vypadávat zvuk (klasická feature všech zbývajících her postavených na jinak skvělém Vital enginu)
 
